@@ -1,0 +1,19 @@
+.titulo {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  text-align: left;
+  color: green;
+}
+
+.subtitulo {
+  font-size: 30px;
+  color: darkmagenta;
+}
+
+#div1 {
+  background-color: red;
+}
+
+#div2 {
+  background-color: blue;
+}

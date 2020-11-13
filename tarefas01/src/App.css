@@ -1,0 +1,99 @@
+body {
+  background-color: gray;
+}
+
+.App {
+  width: 500px;
+  margin: auto;
+}
+
+.titulo {
+  margin-top: 100px;
+  background-color: darkblue;
+  color: white;
+  padding: 20px;
+  font-family: Lobster;
+  font-size: 30px;
+  text-align: center;
+  border-radius: 10px 10px 0 0;
+}
+
+.formulario {
+  display: flex;
+  background-color: white;
+  padding: 20px;
+  padding-right: 10px;
+  align-items: center;
+}
+
+.cel1 {
+  width: 100%;
+}
+
+.cel2 {
+  text-align: center;
+  width: 50px;
+}
+
+.entrada {
+  font-size: 20px;
+  padding: 15px;
+  width: 90%;
+}
+
+.mais {
+  font-size: 30px;
+  color: blue;
+}
+
+.conteudo {
+  background-color: white;
+}
+
+.lista {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px; 
+  border-bottom: 1px solid black;
+  box-shadow: 2px 0 2px 0 black;
+}
+
+.texto {
+  width: 100%
+}
+
+.circulo {
+  color: blue;
+  cursor: pointer;
+  padding-right: 10px;
+}
+
+.lixeira {
+  cursor: pointer
+}
+
+.lixeira:hover {
+  color: red;
+}
+
+
+.mensagem {
+  background-color: #eee;
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+  border-radius: 0 0 10px 10px
+}
+
+.risco {
+  text-decoration: line-through;
+}

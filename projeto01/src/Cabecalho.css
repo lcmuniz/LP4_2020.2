@@ -1,0 +1,24 @@
+
+.cabecalho {
+  background-color: blue;
+  padding: 5px;
+}
+
+
+.titulo {
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 0px;
+  margin: 0px;
+}
+
+.data {
+  font-size: 18px;
+  color: white;
+}
+
+.nome {
+  font-size: 18px;
+  color: white
+}

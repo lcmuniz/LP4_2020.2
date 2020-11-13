@@ -1,0 +1,14 @@
+.card {
+  background-color: cyan;
+  width: 300px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.titulo1 {
+  font-weight: bold;
+}
+
+.duracao {
+  text-align: right;
+}
